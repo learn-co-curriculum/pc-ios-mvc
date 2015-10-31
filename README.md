@@ -31,14 +31,14 @@ In order to build an application, you need three components:
   * The models are responsible for pulling data from database.
   * This holds our backend code - it's where you would find a Swift class. All logic about how an object should look     or act goes here. You don't make instances of your class here.
 
-*Which file(s) represents the Model in our SnapFacts app?*
+-> *Which file(s) represents the Model in our SnapFacts app?*
 
 + **View**: View Objects Present Information to the User
 `A view object knows how to display, and might allow users to edit, the data from the application’s model.`
   * The V in MVC stands for views and this directory is what is on our Main Storyboard.
   * We will create a  `main.storyboard` file here
 
-*Which file(s) represents the View in our SnapFacts app?*
+-> *Which file(s) represents the View in our SnapFacts app?*
 
 
 + **Controller**:  Controller Objects Tie the Model to the View
@@ -47,7 +47,7 @@ In order to build an application, you need three components:
   * The controller is like a waiter that goes between the chef cooking up the meal (Model) and the customers             receiving the food (Views)
   
 
-*Which file(s) represents the Controller in our SnapFacts app?*
+-> *Which file(s) represents the Controller in our SnapFacts app?*
  
   
 
