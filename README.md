@@ -1,4 +1,4 @@
-# Model-View-Controller
+# Essentials: Model-View-Controller
 
 
 ![mind blown](http://i.giphy.com/1gUxB3UbATEvS.gif)
