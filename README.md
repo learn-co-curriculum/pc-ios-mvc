@@ -22,9 +22,8 @@ In order to build an application, you need three components:
 `A controller object acts as the intermediary between the application's view objects and its model objects. Controllers are often in charge of making sure the views have access to the model objects they need to display and act as the conduit through which views learn about changes to the model.`
 
 
-### Lesson Plan
 **HOW WEB APPLICATIONS WORK**
-+ The front-end and back-end of websites are connected by a structural system known as MVC.
++ The front-end and back-end of mobile apps are connected by a structural system known as MVC.
 + XCode provides a built-in way for us to use create an MVC app when we create a project.  
 + MVC stands for Model View Controller
 + Models
@@ -36,10 +35,6 @@ In order to build an application, you need three components:
   * The C stands for Controller and the application controller file in our project will hold all the code that is in charge of making the back end - the Swift logic - talk to the front end - the objects that live in our Main Storyboard.
 + This MVC - model view controller - framework is the way that most modern web applications are organized.
   * Keeping the functionality of our application in these separate directories helps us stay organized as our apps become more and more complex.
-
-
-
-  * We need to create an ViewController class that inherits from Sinatra base. This gives us useful methods to help us navigate our application.
   * We make all instances of our classes from our models in this file to be able to display them in the view.
 
 + **Models**
@@ -54,7 +49,5 @@ In order to build an application, you need three components:
   * The controller is like a waiter that goes between the chef cooking up the meal (Model) and the customers receiving the food (Views)
 
 
-### Conclusion / So What?
-+ Now is your chance to combine your creative and technical skills to fully express yourself with code. You have all the tools you need to make your own web application. Now you have to figure out what exactly it is you want to build. This can be one of the toughest parts, coming up with an idea that people can get excited about.
 
-+ Have students walk through the code and explain to a partner the flow of MVC applications.
++ Explain to a partner the flow of MVC applications.
