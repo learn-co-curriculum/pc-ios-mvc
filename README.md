@@ -1,14 +1,5 @@
 # Model-View-Controller
 
-### SWBATs
-+ MODEL - Understand what a model is
-+ MODELS - Build a model with attributes and actions
-+ XCODE - Understand why we use the SV XCODE file structure and how models fit into it
-+ CONTROLLERS - Understand why we need controllers (to set up routes and connect data from models to views)
-+ CONTROLLERS - Connect information from models to views via controller and instance variables
-+ VIEWS - Understand why we  use instance variables in our views
-+ VIEW - Understand how to use erb tags and instance variables to display dynamic information in views
-
 ### Motivation / Why Should You Care?
 + All along, we've been doing something pretty special, and its important that we don't take it for granted.  Let's talk about the difference between a website, and an application.  An application allows for meaningful, dynamic interaction between user and app.  In other words, in a website, the data is generally static (think of a pizzaria website), whereas in an application, data is can be updated on a daily basis, or even a second-to-second basis (think Instagram or Twitter).  
 
