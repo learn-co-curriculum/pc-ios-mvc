@@ -18,10 +18,10 @@ In order to build an application, you need three components:
 Definitions:
 
 + **MVC**: Stands for Model-View-Controller. MVC is a framework that is the way that most modern mobile and web applications are organized.
-+ The front-end and back-end of mobile apps are connected by a structural system known as MVC.
-+ XCode provides a built-in way for us to use create an MVC app when we create a project.  
-+ Keeping the functionality of our application in these separate directories helps us stay organized as our apps become more and more complex.
-+ We make all instances of our classes from our models in this file to be able to display them in the view.
+*The front-end and back-end of mobile apps are connected by a structural system known as MVC.
+* XCode provides a built-in way for us to use create an MVC app when we create a project.  
+* Keeping the functionality of our application in these separate directories helps us stay organized as our apps become more and more complex.
+* We make all instances of our classes from our models in this file to be able to display them in the view.
 
 + **Model**: Model Objects Encapsulate Data and Basic Behaviors
 `Model objects represent special knowledge and expertise. They hold an application’s data and define the logic that manipulates that data. A well-designed MVC application has all its important data encapsulated in model objects.`
