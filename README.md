@@ -18,16 +18,16 @@ In order to build an application, you need three components:
 Definitions:
 
 + **MVC**: Stands for Model-View-Controller. MVC is a framework that is the way that most modern mobile and web applications are organized.
-*The front-end and back-end of mobile apps are connected by a structural system known as MVC.
-* XCode provides a built-in way for us to use create an MVC app when we create a project.  
-* Keeping the functionality of our application in these separate directories helps us stay organized as our apps become more and more complex.
-* We make all instances of our classes from our models in this file to be able to display them in the view.
+  * The front-end and back-end of mobile apps are connected by a structural system known as MVC.
+  * XCode provides a built-in way for us to use create an MVC app when we create a project.  
+  * Keeping the functionality of our application in these separate directories helps us stay organized as our apps       become more and more complex.
+  * We make all instances of our classes from our models in this file to be able to display them in the view.
 
 + **Model**: Model Objects Encapsulate Data and Basic Behaviors
 `Model objects represent special knowledge and expertise. They hold an application’s data and define the logic that manipulates that data. A well-designed MVC application has all its important data encapsulated in model objects.`
-  * The logic or code that goes into storing and maintaining the data in an application - like adding a tweet to your list of tweets - is the M in an MVC framework - the models.
+  * The logic or code that goes into storing and maintaining the data in an application - like adding a tweet to your     list of tweets - is the M in an MVC framework - the models.
   * The models are responsible for pulling data from database.
-  * This holds our backend code - it's where you would find a Swift class. All logic about how an object should look or act goes here. You don't make instances of your class here.
+  * This holds our backend code - it's where you would find a Swift class. All logic about how an object should look     or act goes here. You don't make instances of your class here.
   * We will set up a `Task.swift` file.
 
 + **View**: View Objects Present Information to the User
@@ -39,8 +39,8 @@ Definitions:
 
 + **Controller**:  Controller Objects Tie the Model to the View
 `A controller object acts as the intermediary between the application's view objects and its model objects. Controllers are often in charge of making sure the views have access to the model objects they need to display and act as the conduit through which views learn about changes to the model.`
- * The C stands for Controller and the application controller file in our project will hold all the code that is in charge of making the back end - the Swift logic - talk to the front end - the objects that live in our Main Storyboard.
- * The controller is like a waiter that goes between the chef cooking up the meal (Model) and the customers receiving the food (Views)
+  * The C stands for Controller and the application controller file in our project will hold all the code that is in     charge of making the back end - the Swift logic - talk to the front end - the objects that live in our Main          Storyboard.
+  * The controller is like a waiter that goes between the chef cooking up the meal (Model) and the customers             receiving the food (Views)
 
 
 
