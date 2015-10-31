@@ -15,13 +15,16 @@ In order to build an application, you need three components:
 3. A way for your frontend to talk to your backend, so it can change dynamically accoridng to what the user wants — your controller.
 
 
-+ 
-+ From Apple Docs: 
-+ Model Objects Encapsulate Data and Basic Behaviors
+Definitions:
+
++ **MVC**
++ **Model**: Model Objects Encapsulate Data and Basic Behaviors
 `Model objects represent special knowledge and expertise. They hold an application’s data and define the logic that manipulates that data. A well-designed MVC application has all its important data encapsulated in model objects.`
-+ View Objects Present Information to the User
-`A view object knows how to display, and might allow users to edit, the data from the application’s model. `
-+ Controller Objects Tie the Model to the View
+
++ **View**: View Objects Present Information to the User
+`A view object knows how to display, and might allow users to edit, the data from the application’s model.`
+
++ **Controller**:  Controller Objects Tie the Model to the View
 `A controller object acts as the intermediary between the application's view objects and its model objects. Controllers are often in charge of making sure the views have access to the model objects they need to display and act as the conduit through which views learn about changes to the model.`
 
 
