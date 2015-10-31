@@ -30,19 +30,26 @@ In order to build an application, you need three components:
   * The logic or code that goes into storing and maintaining the data in an application - like adding a tweet to your     list of tweets - is the M in an MVC framework - the models.
   * The models are responsible for pulling data from database.
   * This holds our backend code - it's where you would find a Swift class. All logic about how an object should look     or act goes here. You don't make instances of your class here.
-  * We will set up a `Task.swift` file.
+
+*Which file(s) represents the Model in our SnapFacts app?*
 
 + **View**: View Objects Present Information to the User
 `A view object knows how to display, and might allow users to edit, the data from the application’s model.`
   * The V in MVC stands for views and this directory is what is on our Main Storyboard.
   * We will create a  `main.storyboard` file here
 
+*Which file(s) represents the View in our SnapFacts app?*
 
 
 + **Controller**:  Controller Objects Tie the Model to the View
 `A controller object acts as the intermediary between the application's view objects and its model objects. Controllers are often in charge of making sure the views have access to the model objects they need to display and act as the conduit through which views learn about changes to the model.`
   * The C stands for Controller and the application controller file in our project will hold all the code that is in     charge of making the back end - the Swift logic - talk to the front end - the objects that live in our Main          Storyboard.
   * The controller is like a waiter that goes between the chef cooking up the meal (Model) and the customers             receiving the food (Views)
+  
+
+*Which file(s) represents the Controller in our SnapFacts app?*
+ 
+  
 
 
 
