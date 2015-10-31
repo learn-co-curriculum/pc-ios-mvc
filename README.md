@@ -1,7 +1,10 @@
 # Model-View-Controller
 
-### Motivation / Why Should You Care?
-+ All along, we've been doing something pretty special, and its important that we don't take it for granted.  Let's talk about the difference between a website, and an application.  An application allows for meaningful, dynamic interaction between user and app.  In other words, in a website, the data is generally static (think of a pizzaria website), whereas in an application, data is can be updated on a daily basis, or even a second-to-second basis (think Instagram or Twitter).  
+
+![mind blown](http://i.giphy.com/1gUxB3UbATEvS.gif)
+
+
+All along, we've been doing something pretty special, and its important that we don't take it for granted.  Let's talk about the difference between a website, and an application.  An application allows for meaningful, dynamic interaction between user and app.  In other words, in a website, the data is generally static (think of a pizzaria website), whereas in an application, data is can be updated on a daily basis, or even a second-to-second basis (think Instagram or Twitter).  
 
 In order to build an application, you need three components:
 1. The visual design of your application — the frontend, or view.
