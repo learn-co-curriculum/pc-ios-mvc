@@ -15,7 +15,7 @@ In order to build an application, you need three components:
 3. A way for your frontend to talk to your backend, so it can change dynamically accoridng to what the user wants — your controller.
 
 
-Definitions:
+##Definitions:##
 
 + **MVC**: Stands for Model-View-Controller. MVC is a framework that is the way that most modern mobile and web applications are organized.
   * The front-end and back-end of mobile apps are connected by a structural system known as MVC.
