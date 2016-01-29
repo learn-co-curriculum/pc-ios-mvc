@@ -55,4 +55,4 @@ In order to build an application, you need three components:
 
 + Explain to a partner the flow of MVC applications.
 
-<a href='https://learn.co/lessons/pc-ios-mvc' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/pc-ios-mvc' title='Essentials: Model-View-Controller'>Essentials: Model-View-Controller</a> on Learn.co and start learning to code for free.</p>
